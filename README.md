@@ -1,2 +1,14 @@
 # huputop-guide
-HTML page archive and documentation
+
+公开页面文件归档
+
+这个仓库用于保存自动发布的独立 HTML 页面。
+
+## 文件归档
+
+- HTML 页面用于访问展示
+- README 用于说明归档用途
+
+## 更新方式
+
+自动发布任务会继续维护本仓库，文件变化以提交记录为准。
